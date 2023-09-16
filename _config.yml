@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : 写真
     description                           : カメラ又は写真フォルダからプロフィール写真を選択できます。
-    fontawesome_icon_name                 : picture-o
+    fontawesome_icon_name                 : camera
 
   - title                                 : 文字
     description                           : タイトルや名前のサイズ、色を自由に変更できます。
