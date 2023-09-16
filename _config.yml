@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : 写真
     description                           : カメラ又は写真フォルダからプロフィール写真を選択できます。
-    fontawesome_icon_name                 : fa-picture-o
+    fontawesome_icon_name                 : picture-o
 
   - title                                 : 文字
     description                           : タイトルや名前のサイズ、色を自由に変更できます。
@@ -66,7 +66,7 @@ features                                  :
 
   - title                                 : アラーム
     description                           : 覚えておきたい記念日に個々にアラームを設定できます。当日から何日前にアラームが届くようにするか選択可能です。
-    fontawesome_icon_name                 : bell-o
+    fontawesome_icon_name                 : bell
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
