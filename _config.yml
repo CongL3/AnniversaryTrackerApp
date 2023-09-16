@@ -42,31 +42,31 @@ features                                  :
     
   - title                                 : 写真
     description                           : カメラ又は写真フォルダからプロフィール写真を選択できます。
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : fa-picture-o
 
   - title                                 : 文字
     description                           : タイトルや名前のサイズ、色を自由に変更できます。
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : font
 
   - title                                 : 背景画像
     description                           : 好きなテーマを選択できます。
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : check
 
   - title                                 : フォント
     description                           : 好みのフォントに変更可能
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : italic
   
   - title                                 : ハート
     description                           : ホーム画面にある赤いハートを押して何が起きるか見てみて下さい。
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : heart
 
   - title                                 : 見やすい記念日
     description                           : あなたのオリジナルの記念日を追加出来ます。 必要のなくなった記念日は左にスライドして消去で きます。
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : bars
 
   - title                                 : アラーム
     description                           : 覚えておきたい記念日に個々にアラームを設定できます。当日から何日前にアラームが届くようにするか選択可能です。
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : bell-o
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
