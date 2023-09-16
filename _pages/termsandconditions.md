@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms and Conditions
+title: 利用規約
 include_in_header: true
 ---
 

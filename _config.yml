@@ -13,15 +13,15 @@ appstore_link                             :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 大切な記念日を記録し、次に来る記念日には通知を受け取れます
+app_description                           : かわいらしいデザインが魅力
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Cong Le                                
-your_link                                 :                      
+your_name                                 : Cong & Alice                                
+your_link                                 : https://congl3.github.io/                      
 your_city                                 : Nottingham                                
 email_address                             : anniversarytrackerteamcong@gmail.com
 facebook_username                         :                                           

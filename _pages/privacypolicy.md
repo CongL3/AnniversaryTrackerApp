@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: 基本情報保護に関する基本方針
 include_in_header: true
 ---
 
