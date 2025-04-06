@@ -62,20 +62,20 @@
 
 	</div>
 	<div class="footerLinks">
-		{% for page in site.pages %}
-			{% if page.include_in_header == true and page.lang == page.lang %}
-				<a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
+		{% for p in site.pages %}
+			{% if p.include_in_header == true and p.lang == page.lang %}
+				<a href="{{ p.url | relative_url }}" target="_self">{{ p.title }}</a>
 			{% endif %}
 		{% endfor %}
 		{% if site.presskit_download_link %}
-			<a href="{{ site.presskit_download_link }}">{{ site.data[page.lang].nav_presskit }}</a>
+			<a href="{{ site.presskit_download_link | relative_url }}">{{ site.data[page.lang].nav_presskit }}</a>
 		{% endif %}
 		
 		<!-- Language Switcher -->
 		{% if page.lang == 'jp' %}
-			<a href="{{ page.url | replace:'/jp/','/en/' }}" class="langSwitch">English</a>
+			<a href="{{ page.url | replace:'/jp/','/en/' | relative_url }}" class="langSwitch">English</a>
 		{% else %}
-			<a href="{{ page.url | replace:'/en/','/jp/' }}" class="langSwitch">日本語</a>
+			<a href="{{ page.url | replace:'/en/','/jp/' | relative_url }}" class="langSwitch">日本語</a>
 		{% endif %}
 	</div>
 </footer>

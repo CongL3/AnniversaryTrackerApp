@@ -9,7 +9,11 @@
 				</defs>
 			</svg>
 			{% if page.url != '/' %}
-				<a href="../" target="_self"><img class="headerIcon" src="{{ site.app_icon | relative_url }}"></a>
+				{% if page.lang == 'jp' %}
+					<a href="{{ '/jp/' | relative_url }}" target="_self"><img class="headerIcon" src="{{ site.app_icon | relative_url }}"></a>
+				{% else %}
+					<a href="{{ '/en/' | relative_url }}" target="_self"><img class="headerIcon" src="{{ site.app_icon | relative_url }}"></a>
+				{% endif %}
 			{% else %}
 				<img class="headerIcon" src="{{ site.app_icon | relative_url }}">
 			{% endif %}
@@ -19,13 +23,13 @@
 	</div>
 	<nav class="scroll">
 		<ul>
-			{% for page in site.pages %}
-				{% if page.include_in_header == true %}
-				<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
+			{% for p in site.pages %}
+				{% if p.include_in_header == true and p.lang == page.lang %}
+				<li><a href="{{ p.url | relative_url }}" target="_self">{{ p.title }}</a></li>
 				{% endif %}
 			{% endfor %}
 			{% if site.presskit_download_link %}
-				<li><a href="{{ site.presskit_download_link }}">Press Kit</a></li>
+				<li><a href="{{ site.presskit_download_link | relative_url }}">{{ site.data[page.lang].nav_presskit }}</a></li>
 			{% endif %}
 		</ul>
 	</nav>
