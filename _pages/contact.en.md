@@ -15,8 +15,8 @@ Thank you for using Anniversary Tracker. If you need assistance or have any ques
 For all inquiries, please contact us at:
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="mailto:{{ site.email_address }}" style="display: inline-block; background-color: #1d63ea; color: white; padding: 15px 30px; border-radius: 30px; text-decoration: none; font-size: 18px;">
-    <i class="fas fa-envelope"></i> {{ site.email_address }}
+  <a href="mailto:anniversarytrackerteamcong@gmail.com" style="display: inline-block; background-color: #1d63ea; color: white; padding: 15px 30px; border-radius: 30px; text-decoration: none; font-size: 18px;">
+    <i class="fas fa-envelope"></i> anniversarytrackerteamcong@gmail.com
   </a>
 </div>
 

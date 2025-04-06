@@ -15,8 +15,8 @@ Anniversary Trackerをご利用いただきありがとうございます。ア�
 すべてのお問い合わせは、以下のメールアドレスまでご連絡ください：
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="mailto:{{ site.email_address }}" style="display: inline-block; background-color: #1d63ea; color: white; padding: 15px 30px; border-radius: 30px; text-decoration: none; font-size: 18px;">
-    <i class="fas fa-envelope"></i> {{ site.email_address }}
+  <a href="mailto:anniversarytrackerteamcong@gmail.com" style="display: inline-block; background-color: #1d63ea; color: white; padding: 15px 30px; border-radius: 30px; text-decoration: none; font-size: 18px;">
+    <i class="fas fa-envelope"></i> anniversarytrackerteamcong@gmail.com
   </a>
 </div>
 

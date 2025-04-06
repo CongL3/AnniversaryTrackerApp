@@ -3,7 +3,7 @@
 ---
 
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="{{ page.lang | default: 'en-us' }}">
 
 {% include head.html %}
 
@@ -12,6 +12,7 @@
         <div class="container subPageContainer">
         {% include header.html %}
             <article class="page markdown-body">
+                <h1 class="page-title">{{ page.title }}</h1>
                 {{ content }}
             </article>
         </div>

@@ -2,13 +2,9 @@
 layout: page
 lang: en
 permalink: /en/termsandconditions/
-title: Terms and Conditions # Using title from en.yml nav_terms
+title: Terms & Conditions
 include_in_header: true
 ---
-
-# Terms and Conditions
-
-[English terms and conditions content goes here - The Japanese version contained English text, you might want to review/translate it properly.]
 
 **Terms & Conditions**
 
