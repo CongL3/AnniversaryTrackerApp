@@ -6,8 +6,6 @@ title: Contact Us
 include_in_header: true
 ---
 
-# Contact Support
-
 Thank you for using Anniversary Tracker. If you need assistance or have any questions about the app, we're here to help.
 
 ## Support Email
