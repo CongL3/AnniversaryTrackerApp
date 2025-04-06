@@ -2,43 +2,43 @@
 layout: page
 lang: jp
 permalink: /jp/termsandconditions/
-title: 利用規約 # Using title from jp.yml nav_terms
+title: 利用規約
 include_in_header: true
 ---
 
-**Terms & Conditions**
+**利用規約**
 
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You're not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You're not allowed to attempt to extract the source code of the app, and you also shouldn't try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Cong Le.
+アプリをダウンロードまたは使用することにより、これらの利用規約は自動的にあなたに適用されます。そのため、アプリを使用する前に、これらの利用規約を注意深く読んでください。あなたはアプリ、アプリの一部、または当社の商標をコピーまたは変更することは許可されていません。アプリのソースコードを抽出しようとすることは許可されておらず、また、アプリを他の言語に翻訳したり、派生バージョンを作成したりしようとするべきではありません。アプリ自体、およびそれに関連するすべての商標、著作権、データベース権、その他の知的財産権は、依然としてコン・リーに帰属します。
 
-Cong Le is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you're paying for.
+コン・リーは、アプリができるだけ有用で効率的であることを保証することに取り組んでいます。そのため、当社はいつでも、どのような理由でも、アプリに変更を加えたり、そのサービスに課金したりする権利を留保します。当社は、あなたが正確に何に対して支払っているのかを明確にせずに、アプリまたはそのサービスに課金することは決してありません。
 
-The Anniversary Tracker - Counter app stores and processes personal data that you have provided to us, to provide my Service. It's your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone's security features and it could mean that the Anniversary Tracker - Counter app won't work properly or at all.
+Anniversary Tracker - Counterアプリは、私のサービスを提供するために、あなたが当社に提供した個人データを保存および処理します。あなたの電話とアプリへのアクセスを安全に保つことはあなたの責任です。したがって、当社は、お使いの電話をジェイルブレイクまたはルート化しないことをお勧めします。これは、お使いのデバイスの公式オペレーティングシステムによって課されるソフトウェアの制限と制約を取り除くプロセスです。これにより、お使いの電話がマルウェア/ウイルス/悪意のあるプログラムに脆弱になり、お使いの電話のセキュリティ機能が損なわれ、Anniversary Tracker - Counterアプリが正常に機能しなくなる可能性があります。
 
-The app does use third-party services that declare their Terms and Conditions.
+アプリは、利用規約を宣言する第三者サービスを使用しています。
 
-Link to Terms and Conditions of third-party service providers used by the app
+アプリが使用するサードパーティサービスの利用規約へのリンク：
 
-*   [Google Play Services](https://policies.google.com/terms)
-*   [AdMob](https://developers.google.com/admob/terms)
-*   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
-*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+* [Googleプレイサービス](https://policies.google.com/terms)
+* [AdMob](https://developers.google.com/admob/terms)
+* [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
+* [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
-You should be aware that there are certain things that Cong Le will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Cong Le cannot take responsibility for the app not working at full functionality if you don't have access to Wi-Fi, and you don't have any of your data allowance left.
+コン・リーが責任を負わないことがあることをご了承ください。アプリの特定の機能は、アプリがアクティブなインターネット接続を持っていることを必要とします。接続はWi-Fiまたはモバイルネットワークプロバイダーから提供される可能性がありますが、Wi-Fiにアクセスできず、データ容量が残っていない場合、アプリが完全に機能しないことに対してコン・リーは責任を負いません。
 
-If you're using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you're accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you're using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+Wi-Fiエリア外でアプリを使用している場合は、モバイルネットワークプロバイダーとの契約条件が引き続き適用されることを覚えておいてください。その結果、アプリにアクセスしている間の接続時間のデータコストや他のサードパーティの料金がモバイルプロバイダーから請求される可能性があります。アプリを使用することにより、あなたはそのような料金に対する責任を受け入れます。これには、データローミングをオフにせずに自宅の地域（つまり、地域または国）の外でアプリを使用した場合のローミングデータ料金が含まれます。あなたがアプリを使用しているデバイスの請求者でない場合は、私たちはあなたが請求者からアプリを使用するための許可を得たと想定していることに注意してください。
 
-Along the same lines, Cong Le cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can't turn it on to avail the Service, Cong Le cannot accept responsibility.
+同様に、コン・リーは常にアプリの使用方法に対して責任を負うことはできません。たとえば、デバイスの充電が切れ、サービスを利用するためにオンにできない場合、コン・リーは責任を負うことができません。
 
-With respect to Cong Le's responsibility for your use of the app, when you're using the app, it's important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Cong Le accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+アプリを使用する際のコン・リーの責任に関しては、アプリの使用中に、私たちは常に更新され正確であることを保証するよう努めていますが、提供される情報を提供するために第三者に依存していることを覚えておくことが重要です。コン・リーは、アプリの機能に完全に依存した結果、直接的または間接的に発生する損失に対して一切の責任を負いません。
 
-At some point, we may wish to update the app. The app is currently available on iOS – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you'll need to download the updates if you want to keep using the app. Cong Le does not promise that it will always update the app so that it is relevant to you and/or works with the iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+ある時点で、アプリを更新したいと思うかもしれません。アプリは現在iOS上で利用可能です。システムの要件（そしてアプリの可用性を拡張することを決定する追加のシステム）は変更される可能性があり、アプリを引き続き使用したい場合は更新をダウンロードする必要があります。コン・リーは、アプリが常にあなたに関連し、あなたがデバイスにインストールしているiOSバージョンで動作するように更新することを約束していません。ただし、あなたは提供されるアプリケーションの更新を常に受け入れることを約束します。また、アプリの提供を停止することを希望する場合があり、あなたに終了の通知を与えることなく、いつでもその使用を終了する場合があります。別途、あなたに伝えない限り、終了時に（a）これらの条件で付与された権利とライセンスは終了します。（b）あなたはアプリの使用を停止し、（必要に応じて）デバイスから削除する必要があります。
 
-**Changes to This Terms and Conditions**
+**この利用規約の変更**
 
-I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
+利用規約は随時更新される場合があります。したがって、変更がないか定期的にこのページを確認することをお勧めします。私は、このページに新しい利用規約を掲載することで、変更を通知します。
 
-These terms and conditions are effective as of 2023-09-13
+これらの利用規約は2023年9月13日から有効です。
 
-**Contact Us**
+**お問い合わせ**
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at anniversarytrackerteamcong@gmail.com.
+私の利用規約についてご質問やご提案がありましたら、anniversarytrackerteamcong@gmail.comまでお気軽にご連絡ください。
