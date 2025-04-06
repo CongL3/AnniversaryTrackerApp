@@ -58,6 +58,25 @@
                         </div>
                     </div>
                     {% include features.html %}
+                    
+                    <!-- Contact Section -->
+                    <div class="contactSection">
+                        <div class="contactContent">
+                            <h2>{{ site.data[page.lang].contact_title }}</h2>
+                            <p>{{ site.data[page.lang].contact_description }}</p>
+                            <div class="contactButton">
+                                <a href="mailto:{{ site.email_address }}" class="contactLink">
+                                    <i class="fas fa-envelope"></i> {{ site.email_address }}
+                                </a>
+                            </div>
+                            {% if page.lang == 'jp' %}
+                                <a href="{{ '/jp/contact/' | relative_url }}" class="contactPageLink">{{ site.data[page.lang].nav_contact }}</a>
+                            {% else %}
+                                <a href="{{ '/en/contact/' | relative_url }}" class="contactPageLink">{{ site.data[page.lang].nav_contact }}</a>
+                            {% endif %}
+                        </div>
+                    </div>
+                    
                     {% include footer.html %}
                     {% include appstoreimages.html %}
                 </div>

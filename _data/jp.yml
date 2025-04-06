@@ -6,10 +6,13 @@ nav_privacy: 基本情報保護に関する基本方針
 nav_terms: 利用規約
 nav_changelog: 新機能
 nav_presskit: Press Kit
+nav_contact: お問い合わせ
 footer_built_by: "Built by"
 footer_using_template: "using the"
 footer_template_name: "Automatic App Landing Page"
 footer_template_link_text: "template"
+contact_title: お問い合わせ
+contact_description: サポートが必要な場合は、メールでお問い合わせください。
 
 features:
   - title: 記念日の自動計算
