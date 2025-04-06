@@ -6,11 +6,7 @@ title: Contact Us
 include_in_header: true
 ---
 
-Thank you for using Anniversary Tracker. If you need assistance or have any questions about the app, we're here to help.
-
-## Support Email
-
-For all inquiries, please contact us at:
+Need help? Contact our support team via email.
 
 <div style="text-align: center; margin: 30px 0;">
   <a href="mailto:anniversarytrackerteamcong@gmail.com" style="display: inline-block; background-color: #1d63ea; color: white; padding: 15px 30px; border-radius: 30px; text-decoration: none; font-size: 18px;">

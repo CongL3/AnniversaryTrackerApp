@@ -6,11 +6,7 @@ title: お問い合わせ
 include_in_header: true
 ---
 
-Anniversary Trackerをご利用いただきありがとうございます。アプリについてご質問やサポートが必要な場合は、お気軽にお問い合わせください。
-
-## サポートメール
-
-すべてのお問い合わせは、以下のメールアドレスまでご連絡ください：
+サポートが必要ですか？メールでお問い合わせください。
 
 <div style="text-align: center; margin: 30px 0;">
   <a href="mailto:anniversarytrackerteamcong@gmail.com" style="display: inline-block; background-color: #1d63ea; color: white; padding: 15px 30px; border-radius: 30px; text-decoration: none; font-size: 18px;">
