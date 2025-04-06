@@ -13,14 +13,14 @@ appstore_link                             :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : かわいらしいデザインが魅力
+# app_description: Moved to _data/xx.yml
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : ディベロッパー：コン・リー                                
+# your_name: Moved to _data/xx.yml                                
 your_link                                 : https://congl3.github.io/                      
 your_city                                 : Nottingham                                
 email_address                             : anniversarytrackerteamcong@gmail.com
@@ -32,46 +32,7 @@ youtube_username                          :
 mastodon_link                             : 
 
 
-
-# Feature List                            Edit, add or remove features to be presented.
-features                                  :
-
-  - title                                 : 記念日の自動計算
-    description                           : 記念日の当日を１日目とカウントするか０日目とカウントするか選択可能です。
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : 写真
-    description                           : カメラ又は写真フォルダからプロフィール写真を選択できます。
-    fontawesome_icon_name                 : camera
-
-  - title                                 : 文字
-    description                           : タイトルや名前のサイズ、色を自由に変更できます。
-    fontawesome_icon_name                 : font
-
-  - title                                 : 背景画像
-    description                           : 好きなテーマを選択できます。
-    fontawesome_icon_name                 : check
-
-  - title                                 : フォント
-    description                           : 好みのフォントに変更可能
-    fontawesome_icon_name                 : italic
-  
-  - title                                 : ハート
-    description                           : ホーム画面にある赤いハートを押して何が起きるか見てみて下さい。
-    fontawesome_icon_name                 : heart
-
-  - title                                 : 見やすい記念日
-    description                           : あなたのオリジナルの記念日を追加出来ます。 必要のなくなった記念日は左にスライドして消去で きます。
-    fontawesome_icon_name                 : bars
-
-  - title                                 : アラーム
-    description                           : 覚えておきたい記念日に個々にアラームを設定できます。当日から何日前にアラームが届くようにするか選択可能です。
-    fontawesome_icon_name                 : bell
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
+# Feature List: Moved to _data/xx.yml
 
 
 # Theme Settings
@@ -129,6 +90,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - Gemfile
+  - Gemfile.lock
 
 collections:
   pages:

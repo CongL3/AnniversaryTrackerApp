@@ -1,0 +1,45 @@
+app_description: Attractive and cute design
+your_name: "Developer: Cong Ly"
+
+# Navigation & Footer Links
+nav_privacy: Privacy Policy
+nav_terms: Terms and Conditions
+nav_changelog: Changelog
+nav_presskit: Press Kit
+footer_built_by: "Built by"
+footer_using_template: "using the"
+footer_template_name: "Automatic App Landing Page"
+footer_template_link_text: "template"
+
+features:
+  - title: Automatic Anniversary Calculation
+    description: You can choose whether to count the anniversary day as day 1 or day 0.
+    fontawesome_icon_name: magic
+
+  - title: Photos
+    description: Select a profile picture from your camera or photo library.
+    fontawesome_icon_name: camera
+
+  - title: Text Customization
+    description: Freely change the size and color of titles and names.
+    fontawesome_icon_name: font
+
+  - title: Background Image
+    description: Choose your favorite theme.
+    fontawesome_icon_name: check
+
+  - title: Fonts
+    description: Change to your preferred font.
+    fontawesome_icon_name: italic
+
+  - title: Heart Interaction
+    description: Press the red heart on the home screen and see what happens.
+    fontawesome_icon_name: heart
+
+  - title: Clear Anniversary View
+    description: Add your own original anniversaries. Swipe left to delete unnecessary ones.
+    fontawesome_icon_name: bars
+
+  - title: Alarms
+    description: Set individual alarms for anniversaries you want to remember. Choose how many days in advance the alarm should arrive.
+    fontawesome_icon_name: bell

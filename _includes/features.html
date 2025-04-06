@@ -1,6 +1,7 @@
 <div class="features">
 
-    {% for feature in site.features %}
+    {% assign features = site.data[page.lang].features %}
+    {% for feature in features %}
 
     {% if feature.title %}
     <div class="feature">

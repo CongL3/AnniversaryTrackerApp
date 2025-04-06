@@ -1,6 +1,6 @@
 <footer>
-	{% if site.your_name %}
-	<p class="footerText">{% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}
+	{% if site.data[page.lang].your_name %}
+	<p class="footerText">{% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.data[page.lang].your_name }}{% if site.your_link %}</a>{% endif %}
 	<br>デザイナー：須藤　成美　
 	</p>
 	{% endif %}
@@ -63,10 +63,19 @@
 	</div>
 	<div class="footerLinks">
 		{% for page in site.pages %}
-			<a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
+			{% if page.include_in_header == true and page.lang == page.lang %}
+				<a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
+			{% endif %}
 		{% endfor %}
 		{% if site.presskit_download_link %}
-			<a href="{{ site.presskit_download_link }}">Press Kit</a>
+			<a href="{{ site.presskit_download_link }}">{{ site.data[page.lang].nav_presskit }}</a>
+		{% endif %}
+		
+		<!-- Language Switcher -->
+		{% if page.lang == 'jp' %}
+			<a href="{{ page.url | replace:'/jp/','/en/' }}" class="langSwitch">English</a>
+		{% else %}
+			<a href="{{ page.url | replace:'/en/','/jp/' }}" class="langSwitch">日本語</a>
 		{% endif %}
 	</div>
 </footer>

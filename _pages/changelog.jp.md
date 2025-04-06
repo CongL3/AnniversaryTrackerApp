@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 新機能
+lang: jp
+permalink: /jp/changelog/
+title: 新機能 # This will be overridden by localized title in layout if set up correctly
 include_in_header: true
 ---
 

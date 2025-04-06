@@ -1,0 +1,45 @@
+app_description: かわいらしいデザインが魅力
+your_name: ディベロッパー：コン・リー
+
+# Navigation & Footer Links (Translate as needed)
+nav_privacy: 基本情報保護に関する基本方針
+nav_terms: 利用規約
+nav_changelog: 新機能
+nav_presskit: Press Kit
+footer_built_by: "Built by"
+footer_using_template: "using the"
+footer_template_name: "Automatic App Landing Page"
+footer_template_link_text: "template"
+
+features:
+  - title: 記念日の自動計算
+    description: 記念日の当日を１日目とカウントするか０日目とカウントするか選択可能です。
+    fontawesome_icon_name: magic
+
+  - title: 写真
+    description: カメラ又は写真フォルダからプロフィール写真を選択できます。
+    fontawesome_icon_name: camera
+
+  - title: 文字
+    description: タイトルや名前のサイズ、色を自由に変更できます。
+    fontawesome_icon_name: font
+
+  - title: 背景画像
+    description: 好きなテーマを選択できます。
+    fontawesome_icon_name: check
+
+  - title: フォント
+    description: 好みのフォントに変更可能
+    fontawesome_icon_name: italic
+
+  - title: ハート
+    description: ホーム画面にある赤いハートを押して何が起きるか見てみて下さい。
+    fontawesome_icon_name: heart
+
+  - title: 見やすい記念日
+    description: あなたのオリジナルの記念日を追加出来ます。 必要のなくなった記念日は左にスライドして消去で きます。
+    fontawesome_icon_name: bars
+
+  - title: アラーム
+    description: 覚えておきたい記念日に個々にアラームを設定できます。当日から何日前にアラームが届くようにするか選択可能です。
+    fontawesome_icon_name: bell
