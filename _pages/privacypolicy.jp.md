@@ -6,68 +6,82 @@ title: 基本情報保護に関する基本方針 # Using title from jp.yml nav_
 include_in_header: true
 ---
 
-**Privacy Policy**
+**プライバシーポリシー**
 
-Cong Le built the Anniversary Tracker - Counter app as an Ad Supported app. This SERVICE is provided by Cong Le at no cost and is intended for use as is.
+Cong Le は、Anniversary Tracker - Counter アプリを広告サポート型アプリとして開発しました。このサービス（以下「本サービス」）は、Cong Le によって無料で提供され、そのままの形で利用することを目的としています。
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+このページは、本サービスを利用することを決定した場合に、個人情報の収集、使用、および開示に関する方針を訪問者に通知するために使用されます。
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+本サービスを利用することで、利用者はこのポリシーに関連する情報の収集および使用に同意したものとみなされます。収集した個人情報は、本サービスの提供および改善のために使用されます。このプライバシーポリシーで説明されている場合を除き、収集した情報を第三者と共有することはありません。
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Anniversary Tracker - Counter unless otherwise defined in this Privacy Policy.
+このプライバシーポリシーで使用される用語は、Anniversary Tracker - Counter の利用規約に記載されているものと同じ意味を持ちます。特に定義されていない限り、利用規約はこのプライバシーポリシーに従います。
 
-**Information Collection and Use**
+**情報の収集と使用**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+本サービスのより良い体験のために、特定の個人を特定できる情報を提供するようお願いする場合があります。要求される情報はデバイスに保存され、開発者によって収集されることはありません。
 
-The app does use third-party services that may collect information used to identify you.
+ただし、このアプリは、利用者を特定するために情報を収集する可能性がある第三者サービスを使用します。これらのサービスは、ターゲット広告を提供するためや、分析を収集する目的で、ユーザーの操作を追跡する場合があります。
 
-Link to the privacy policy of third-party service providers used by the app
+**第三者サービス**
+
+アプリで使用される第三者サービスプロバイダーのプライバシーポリシーへのリンク：
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=ja)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 
-**Log Data**
+**広告のトラッキングとデータ収集**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+本アプリは、**AdMob** を使用して広告を配信します。AdMob は以下の情報を収集する場合があります：
 
-**Cookies**
+*   デバイス識別子  
+*   IP アドレス  
+*   アプリ使用状況データ  
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+この情報は、ターゲット広告を提供するために使用されます。本アプリは、iOS の App Tracking Transparency（ATT）要件を遵守しています。追跡を行う前に利用者の許可を求めます。許可が与えられない場合でも、広告は表示されますが、パーソナライズされません。
 
-This Service does not use these "cookies" explicitly. However, the app may use third-party code and libraries that use "cookies" to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Google のデータ使用に関する詳細は、[AdMob ポリシー](https://policies.google.com/technologies/ads) を参照してください。
 
-**Service Providers**
+**ログデータ**
 
-I may employ third-party companies and individuals due to the following reasons:
+本サービスを利用する際、エラーが発生した場合には、ログデータ（第三者の製品を通じて）としてデバイスに保存されている情報を収集する場合があります。このログデータには、利用者のデバイスのインターネットプロトコル（「IP」）アドレス、デバイス名、オペレーティングシステムのバージョン、本サービスを利用する際のアプリの設定、使用日時、その他の統計情報が含まれる場合があります。
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+**クッキー（Cookies）**
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+クッキーは少量のデータを含むファイルで、通常は匿名の一意識別子として使用されます。これらは、訪問するウェブサイトからブラウザに送信され、デバイスの内部メモリに保存されます。
 
-**Security**
+本サービスはこれらの「クッキー」を明示的には使用しません。ただし、アプリは「クッキー」を使用して情報を収集し、サービスを向上させる第三者コードやライブラリを使用する場合があります。利用者は、これらのクッキーを受け入れるか拒否するかを選択できます。クッキーを拒否した場合、一部の本サービスが利用できなくなる場合があります。
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+**サービスプロバイダー**
 
-**Links to Other Sites**
+私は次の理由で第三者の企業や個人を雇用する場合があります：
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+*   本サービスを円滑にするため  
+*   本サービスを私に代わって提供するため  
+*   サービス関連の作業を実行するため  
+*   本サービスの使用状況を分析するため  
 
-**Children's Privacy**
+本サービスの利用者に対し、これらの第三者が個人情報にアクセスできることを通知します。ただし、これらの第三者は私たちに代わってタスクを実行するためだけに情報を使用する義務があります。他の目的で情報を開示または使用することは禁止されています。
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+**セキュリティ**
 
-**Changes to This Privacy Policy**
+私は、利用者の個人情報の提供における信頼を重視しており、それを保護するために商業的に受け入れられる手段を使用するよう努めています。ただし、インターネット上の送信方法や電子ストレージの方法は完全に安全で信頼できるわけではなく、その絶対的な安全性を保証することはできません。
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+**他サイトへのリンク**
 
-This policy is effective as of 2023-09-13
+本サービスには、他のサイトへのリンクが含まれる場合があります。第三者リンクをクリックすると、そのサイトに移動します。これらの外部サイトは私によって運営されていないことに注意してください。したがって、これらのウェブサイトのプライバシーポリシーを確認することを強くお勧めします。私は、第三者のサイトやサービスのコンテンツ、プライバシーポリシー、または慣行に対して一切責任を負いません。
 
-**Contact Us**
+**子供のプライバシー**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at anniversarytrackerteamcong@gmail.com.
+本サービスは13歳未満の方を対象としていません。13歳未満の子供から個人情報を意図的に収集することはありません。万が一13歳未満の子供が個人情報を提供していることが判明した場合は、直ちに当該情報をサーバーから削除します。保護者または後見人であり、お子様が個人情報を提供していることを認識した場合は、必要な措置を取るために速やかにご連絡ください。
+
+**プライバシーポリシーの変更**
+
+プライバシーポリシーは随時更新される場合があります。そのため、このページを定期的に確認することをお勧めします。変更があった場合、新しいプライバシーポリシーをこのページに掲載することでお知らせします。
+
+このポリシーは、2025年4月8日より有効です。
+
+**お問い合わせ**
+
+プライバシーポリシーに関するご質問やご提案がございましたら、次のアドレスまでお気軽にご連絡ください：anniversarytrackerteamcong@gmail.com
